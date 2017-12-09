@@ -1,0 +1,11 @@
+# idea
+*.xml
+*.iml
+.idea/
+
+cmake-build-debug/
+
+# VS
+.vs/
+Debug/
+opengltest/Debug/
