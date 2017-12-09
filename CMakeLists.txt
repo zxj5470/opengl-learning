@@ -14,5 +14,6 @@ add_executable(opengltest
         opengltest/stdafx.h
         opengltest/targetver.h)
 
-add_executable(run setup.cpp)
+add_executable(Build_Run Build_Ctrl_F5.cpp)
+add_executable(Run Ctrl_F5.cpp)
 

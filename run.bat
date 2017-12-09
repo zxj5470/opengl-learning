@@ -1,0 +1,1 @@
+"%CD%\opengltest\Debug\opengltest.exe"
